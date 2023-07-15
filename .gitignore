@@ -32,6 +32,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Mac
+.DS_Store
+
 # Personal
 share/
 Untitled-1.ipynb
